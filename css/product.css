@@ -1,0 +1,28 @@
+.main-product-heading{
+    background-color: rgb(27, 183, 255);
+    text-align: center;
+    padding: 96px 0;
+}
+
+.product-section{
+    padding: 48px 0;
+}
+
+.card{
+    text-align: center !important;
+}
+
+.card img{
+    height: 16rem;
+}
+
+@media only screen and(max-width:769px){
+    .card img{
+        height: auto;
+    }
+
+    .card a{
+        width: 25% !important;
+    }
+}
+

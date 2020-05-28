@@ -1,0 +1,13 @@
+h2,h3{
+    color: black !important;
+    line-height: 2.5;
+}
+
+.about-content{
+    padding: 96px 0;
+}
+
+p{
+    line-height: 2;
+    font-size: 13px;
+}

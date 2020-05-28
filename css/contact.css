@@ -1,0 +1,48 @@
+h2{
+    color: black !important;
+    font-size: 23px;
+    margin-bottom: 40px;
+}
+
+h6{
+    color: black !important;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+.contact-section{
+    margin: 96px auto;
+}
+
+.address-info{
+    width: 30%;
+}
+
+.ico{
+    background-color: rgb(27, 183, 255);
+    text-align: center;
+    border-radius: 30px;
+    font-size: 40px;
+    padding: 10px 0;
+    width: 60px;
+}
+
+.ico-text{
+    margin-left: 75px;
+}
+
+.ico-text p{
+    line-height: 1 !important;
+}
+
+.donate-section{
+    width: 100% !important;
+}
+
+.contactus-section{
+    width: 40%;
+}
+
+.contactus-section .form-control{
+    background-color: white !important;
+}
