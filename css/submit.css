@@ -1,0 +1,16 @@
+body{
+    background-color: ;
+}
+
+.figure{
+    text-align: center !important;
+    width: 100%;
+}
+
+h1, h2{
+    color: black !important;
+}
+
+.img-fluid{
+    width: 30% !important;
+}
